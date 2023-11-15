@@ -1,0 +1,36 @@
+public class Hello {
+
+public static void main(String[] args) {
+
+String variable = “Hello”;
+
+// Print the value of your variable
+
+}
+
+}
+
+
+public class Hello {
+
+    public static void main(String[] args) {
+    
+    String variable = “Hello”;
+    
+    // Print the value of your variable
+    
+    }
+    
+    }
+
+    public class Hello {
+
+        public static void main(String[] args) {
+        
+        // "Citrus Circuits"
+        
+        String variable = "Citrus " + "Circuits";
+        
+        }
+        
+        }
